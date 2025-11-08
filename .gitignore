@@ -49,3 +49,5 @@ asset-manifest.json
 !lib/
 
 # End of file
+.dev.vars
+.dev.vars
